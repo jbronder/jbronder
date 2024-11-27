@@ -10,7 +10,7 @@
 
 
 ### About Me
-A licensed structural engineer who enjoys writing software and tools. I currently build things related to structural engineering and the built environment and put them on web. I currently build things in mostly TypeScript and JavaScript though I have built things in Go, Python, and C++.
+A licensed structural engineer who enjoys writing software and tools. I build things related to structural engineering and the built environment and put them on web. I use mostly TypeScript and JavaScript though I have built things in Go, Python, and C++.
 
 <!--
 ## Hi there 👋
